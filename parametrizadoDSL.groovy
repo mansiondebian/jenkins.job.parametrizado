@@ -20,6 +20,6 @@ job('ejemplo2-job-DSL') {
   	publishers {
       		mailer('sergioalvarez222@hotmail.com', true, true)
       		
-        	}
+        	
     	}
 }
